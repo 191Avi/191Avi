@@ -6,7 +6,7 @@ I am the founder of **NovaSolar AI**, leading AI-driven innovation in renewable 
 - 🌱 Exploring cutting-edge AI, IoT, and predictive analytics.  
 - 💡 Passionate about renewable energy, autonomous systems, and data-driven innovation.  
 - 🛠️ Building AI tools and platforms for smart energy management and infrastructure optimization.  
-- 📫 Reach me at: [https://novasolarai.co.site/](mailto:avijitsahaa236@gmail.com)
+- 📫 Reach me at: [avijitsahaa236@gmail.com]
 
 ---
 
@@ -28,7 +28,7 @@ I am the founder of **NovaSolar AI**, leading AI-driven innovation in renewable 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitsahaapu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://novasolarai.co.site))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://novasolarai.co.site)  
 
 ---
 
