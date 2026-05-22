@@ -180,6 +180,7 @@ NovaSolar AI is an AI-powered solar energy intelligence system that combines mac
 | AI-Driven Solar Energy Forecasting using LSTM Networks | Thesis — University | 2026 | 🟡 In Progress |
 | Predictive Maintenance for Photovoltaic Systems using Deep Learning | Conference Paper | 2026 | 🔵 Planned |
 | Autonomous IoT Pipeline for Real-Time Solar Monitoring | Journal Article | 2026 | 🔵 Planned |
+| [A Comparative Review on Stock Market Prediction Using AI](https://mjsat.com.my/index.php/mjsat/article/view/316) | MJSAT, Vol. 4, No. 4, pp. 383–404 | 2024 | 🟢 Published |
 
 </div>
 
