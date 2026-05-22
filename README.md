@@ -138,9 +138,9 @@ NovaSolar AI is an AI-powered solar energy intelligence system that combines mac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=191Avi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=191Avi&theme=tokyonight"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=191Avi&theme=tokyonight"/>
 
 </div>
 
