@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&heighht=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
@@ -158,11 +158,11 @@ NovaSolar AI is an AI-powered solar energy intelligence system that combines mac
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Top Languages
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=191Avi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/191Avi)
 
 </div>
 
