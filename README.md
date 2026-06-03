@@ -1,33 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&heihghht=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65& fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-### ☀️ Building the world's first autonomous AI platform for solar energy intelligence
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%2B+Renewable+Energy+%3D+Sustainable+Future+🌍;LSTM+Solar+Forecasting+%7C+94%25+Accuracy;Predictive+Maintenance+%7C+IoT+%7C+Deep+Learning;Open+to+Collaborations+%26+Research+Projects)](https://github.com/191Avi/Novasolar_ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=☀️+Building+NovaSolar+AI;🤖+AI%2FML+Developer+%26+Researcher;🌱+Renewable+Energy+Innovator;🚀+Founder+%26+Open+Source+Enthusiast)](https://github.com/191Avi/Novasolar_ai)
 
 [![GitHub followers](https://img.shields.io/github/followers/191Avi?style=social)](https://github.com/191Avi)
-![Profile Views](https://komarev.com/ghpvc/?username=191Avi&style=flat-square&color=brightgreen)
+[![Profile Views](https://komarev.com/ghpvc/?username=191Avi&style=flat-square&color=brightgreen)](https://github.com/191Avi)
 [![GitHub stars](https://img.shields.io/github/stars/191Avi?style=social)](https://github.com/191Avi)
 
 </div>
 
 ---
 
+## ☀️ Building the world's first autonomous AI platform for solar energy intelligence
+
 ## 🌞 NovaSolar AI — My Flagship Project
 
-> *"Building the world's first autonomous AI platform for global solar optimization, protection, and monetization."*
->
-> <div align="center">
+> "Building the world's first autonomous AI platform for global solar optimization, protection, and monetization."
 
-[![NovaSolar AI](https://img.shields.io/badge/🚀_NovaSolar_AI-Live_Demo-FF6B35?style=for-the-badge)](https://191avi.github.io/Novasolar_ai/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Novasolar__ai-181717?style=for-the-badge&logo=github)](https://github.com/191Avi/Novasolar_ai)
-[![Notebook](https://img.shields.io/badge/Jupyter-LSTM_Notebook-F37626?style=for-the-badge&logo=jupyter)](https://github.com/191Avi/Novasolar_ai/blob/main/notebooks/01_LSTM_Solar_Forecasting.ipynb)
-[![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-brightgreen?style=for-the-badge)](https://github.com/191Avi/Novasolar_ai/releases/tag/v1.0.0)
-
-</div>
+[![NovaSolar AI](https://img.shields.io/badge/🌐_Live_Demo-NovaSolar_AI-orange?style=for-the-badge)](https://191avi.github.io/Novasolar_ai/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Novasolar_AI-181717?style=for-the-badge&logo=github)](https://github.com/191Avi/Novasolar_ai)
+[![Notebook](https://img.shields.io/badge/Jupyter-LSTM_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/191Avi/Novasolar_ai/blob/main/notebooks/01_LSTM_Solar_Forecasting.ipynb)
+[![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/191Avi/Novasolar_ai/releases/tag/v1.0.0)
 
 | Feature | Description | Status |
 |---------|-------------|--------|
@@ -43,12 +39,15 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-pearl-omega-26.vercel.app/api?username=191Avi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats-pearl-omega-26.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=191Avi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Avijit GitHub Stats"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Compact"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=191Avi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=191Avi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -58,8 +57,8 @@
 
 ```python
 avijit = {
-    "name"    : "Avijit Saha Apu",
-    "role"    : ["AI/ML Developer", "Founder", "Researcher"],
+    "name" : "Avijit Saha Apu",
+    "role" : ["AI/ML Developer", "Founder", "Researcher"],
     "company" : "NovaSolar AI ☀️",
     "mission" : "Build the world's first autonomous AI platform for solar energy",
     "contact" : "avijitsahaa236@gmail.com",
@@ -67,25 +66,21 @@ avijit = {
 }
 ```
 
----
-
 ## 🚀 What I'm Building
 
 ```
-🟢 NovaSolar AI — AI Forecasting Engine    [████████░░] 80%
-🟡 Predictive Maintenance Module           [██████░░░░] 60%
-🟡 Academic Thesis                         [█████░░░░░] 50%
-🟠 Smart Dashboard (UI)                    [███░░░░░░░] 30%
-🔵 Research Paper / Publication            [██░░░░░░░░] 20%
-🔵 Energy Monetization Module              [██░░░░░░░░] 15%
-🔵 Production Deployment                   [█░░░░░░░░░] 10%
+🟢 NovaSolar AI — AI Forecasting Engine  [████████░░] 80%
+🟡 Predictive Maintenance Module         [██████░░░░] 60%
+🟡 Academic Thesis                       [█████░░░░░] 50%
+🟠 Smart Dashboard (UI)                  [███░░░░░░░] 30%
+🔵 Research Paper / Publication          [██░░░░░░░░] 20%
+🔵 Energy Monetization Module            [██░░░░░░░░] 15%
+🔵 Production Deployment                 [█░░░░░░░░░] 10%
 ```
 
 ---
 
 ## 💻 Tech Stack
-
-<div align="center">
 
 **🤖 AI / Machine Learning**
 
@@ -133,15 +128,13 @@ avijit = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ---
 
 ## 🏆 Top Languages
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats-pearl-omega-26.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/191Avi)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages Donut"/>
 
 </div>
 
@@ -157,34 +150,36 @@ avijit = {
 
 ---
 
-## 📚 Research & Publications
+## 🤝 Contributions
 
 <div align="center">
 
-| 📄 Title | 🏛️ Venue | 📅 Year | 🔗 Status |
-|----------|---------|------|--------|
-| [A Comparative Review on Stock Market Prediction Using AI](https://mjsat.com.my/index.php/mjsat/article/view/316) | MJSAT, Vol. 4, No. 4 | 2024 | 🟢 Published |
-| AI-Driven Solar Energy Forecasting using LSTM Networks | Thesis — University | 2026 | 🟡 In Progress |
-| Predictive Maintenance for Photovoltaic Systems using Deep Learning | Conference Paper | 2026 | 🔵 Planned |
-| Autonomous IoT Pipeline for Real-Time Solar Monitoring | Journal Article | 2026 | 🔵 Planned |
+![Avijit's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=191Avi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
+## 📚 Research & Publications
+
+| 📄 Title | 🏛️ Venue | 📅 Year | 🔗 Status |
+|----------|----------|---------|-----------|
+| A Comparative Review on Stock Market Prediction Using AI | MJSAT, Vol. 4, No. 4 | 2024 | 🟢 Published |
+| AI-Driven Solar Energy Forecasting using LSTM Networks | Thesis — University | 2026 | 🟡 In Progress |
+| Predictive Maintenance for Photovoltaic Systems using Deep Learning | Conference Paper | 2026 | 🔵 Planned |
+| Autonomous IoT Pipeline for Real-Time Solar Monitoring | Journal Article | 2026 | 🔵 Planned |
+
+---
+
 ## 🎓 Certifications
 
-<div align="center">
-
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
-|-----------------|---------|------|
+|-----------------|-----------|---------|
 | Machine Learning Specialization | Coursera / DeepLearning.AI | 2024 |
 | Deep Learning Specialization | Coursera / DeepLearning.AI | 2024 |
 | Python for Data Science | IBM / Coursera | 2023 |
 | IoT Fundamentals | Cisco Networking Academy | 2023 |
 | AWS Cloud Practitioner | Amazon Web Services | 2024 |
-
-</div>
 
 ---
 
@@ -197,17 +192,13 @@ avijit = {
 
 ## 🤝 Let's Connect
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-avijitsahaa236%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avijitsahaa236@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-191Avi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/191Avi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avijitsahaapu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avijitsahaapu)
+[![Twitter](https://img.shields.io/badge/Twitter-191Avi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/191Avi)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net)
 
-[![Email](https://img.shields.io/badge/Email-avijitsahaa236%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:avijitsahaa236@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-191Avi-181717?style=for-the-badge&logo=github)](https://github.com/191Avi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avijit%20Saha%20Apu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avijitsahaapu)
-[![Twitter](https://img.shields.io/badge/Twitter-@191Avi-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/191Avi)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Avijit-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net)
-
-💬 Feel free to reach out for: **Collaboration on AI/Energy projects** | **Research discussions** | **Startup ideas** | **AI consultations**
-
-</div>
+> 💬 Feel free to reach out for: **Collaboration on AI/Energy projects** | **Research discussions** | **Startup ideas** | **AI consultations**
 
 ---
 
@@ -215,10 +206,10 @@ avijit = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-🌟 **"Building the future of intelligent energy, one line of code at a time."** ☀️🤖
+🌟 *"Building the future of intelligent energy, one line of code at a time."* ☀️🤖
 
 [![Made with](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/191Avi)
-[![Powered by](https://img.shields.io/badge/Powered%20by-AI-blue?style=for-the-badge)](https://github.com/191Avi/Novasolar_ai)
-[![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge)](https://github.com/191Avi)
+[![Powered by](https://img.shields.io/badge/Powered%20by-NovaSolar%20AI-orange?style=for-the-badge)](https://github.com/191Avi/Novasolar_ai)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)](https://github.com/191Avi)
 
 </div>
