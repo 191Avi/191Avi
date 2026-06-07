@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?htype=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
@@ -41,7 +41,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=191Avi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Avijit GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages Compact"/>
 
 </div>
 
@@ -134,7 +134,7 @@ avijit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages Donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=191Avi&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=86400" alt="Top Languages Donut"/>
 
 </div>
 
@@ -154,7 +154,7 @@ avijit = {
 
 <div align="center">
 
-![Avijit's Contribution Stats](https://github-contributor-stats.vercel.app/api?username=191Avi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Avijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=191Avi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
 
 </div>
 
