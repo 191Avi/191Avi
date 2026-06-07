@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?htype=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Avijit%20Saha%20Apu&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Founder%20%7C%20Renewable%20Energy%20Innovator&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=☀️+Building+NovaSolar+AI;🤖+AI%2FML+Developer+%26+Researcher;🌱+Renewable+Energy+Innovator;🚀+Founder+%26+Open+Source+Enthusiast)](https://github.com/191Avi/Novasolar_ai)
 
-[![GitHub followers](https://img.shields.io/github/followers/191Avi?style=social)](https://github.com/191Avi)
+[![GitHub followers](https://img.shields.io/github/followers/191Avi?label=Follow&style=social)](https://github.com/191Avi)
 [![Profile Views](https://komarev.com/ghpvc/?username=191Avi&style=flat-square&color=brightgreen)](https://github.com/191Avi)
 [![GitHub stars](https://img.shields.io/github/stars/191Avi?style=social)](https://github.com/191Avi)
 
@@ -128,15 +128,6 @@ avijit = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 🏆 Top Languages
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=191Avi&theme=tokyonight)](https://github.com/191Avi)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=191Avi&theme=tokyonight)](https://github.com/191Avi)
-
-</div>
 
 ---
 
