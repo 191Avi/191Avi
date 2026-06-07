@@ -154,7 +154,7 @@ avijit = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=191Avi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/191Avi)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=191Avi&theme=tokyonight)](https://github.com/191Avi)
 
 </div>
 
